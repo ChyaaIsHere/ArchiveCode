@@ -1,4 +1,4 @@
-# 📖 Tugas Kelas Industri Pertemuan Pertama
+# 📖 Tugas Kelas Industri
 ## 📄 Soal yang harus dikerjakan :
 > Melakukan git init menggunakan terminal
 
